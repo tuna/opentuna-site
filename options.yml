@@ -484,6 +484,7 @@ force_help_mirrors:
   - glibc.git
   - flutter-sdk.git
   - julia-general.git
+  - rubygems
 
 label_map:
   unknown: label-default
